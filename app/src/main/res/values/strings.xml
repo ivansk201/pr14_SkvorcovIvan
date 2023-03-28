@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Вконтакте</string>
+    <string name="quest_text">Вконтакте имеет внутрений магазин игр?</string>
+    <string name="true_button">Верно</string>
+    <string name="false_button">Неверно</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="icorect_toast">Неправильно!</string>
+
+    <string name="quest2_text">Вконтакте является социальной сетью?</string>
+
+
+</resources>
